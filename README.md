@@ -2,6 +2,8 @@
 
 A classic Tetris clone built with Godot 4. Supports both keyboard and on-screen touch controls.
 
+**Play on itch.io:** https://starjou.itch.io/mans-tetris
+
 ## Gameplay
 
 - Tetrominoes fall from the top — move and rotate them to fill complete rows
