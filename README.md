@@ -1,5 +1,7 @@
 # Men's Tetris
 
+![Men's Tetris screenshot](docs/screenshot.png)
+
 A classic Tetris clone built with Godot 4. Supports both keyboard and on-screen touch controls.
 
 **Play on itch.io:** https://starjou.itch.io/mens-tetris
